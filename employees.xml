@@ -1,0 +1,10 @@
+<company>
+    <employee id="1">
+        <name>Ngọc Nữ</name>
+        <position>Developer</position>
+    </employee>
+    <employee id="2">
+        <name>Châu</name>
+        <position>Designer</position>
+    </employee>
+</company>
